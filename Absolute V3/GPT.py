@@ -1,0 +1,2 @@
+def gpt(command):
+    pass
